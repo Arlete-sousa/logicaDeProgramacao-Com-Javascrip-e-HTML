@@ -1,1 +1,2 @@
-# logicaDeProgramacao-Com-Javascrip-e-HTML
+# Curso: Alura e Oracle One 
+## Lógica de programação com JavaScript e HTML
